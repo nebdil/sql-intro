@@ -1,0 +1,23 @@
+{
+  "name": "sql_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lookup_people.js",
+  "dependencies": {
+    "pg": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebdil/sql-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nebdil/sql-intro/issues"
+  },
+  "homepage": "https://github.com/nebdil/sql-intro#readme"
+}
